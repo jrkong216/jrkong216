@@ -17,6 +17,9 @@ Here are some ideas to get you started:
 
 # About ME
 ### My name is Jason Kong and I'm a full-stack software engineer. I'm from the Bay Area, CA USA. You can find me on:
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jason-kong-39552922/)
+
 <!-- 
  [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) https://www.linkedin.com/in/jason-kong-39552922/)]
 
