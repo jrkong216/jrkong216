@@ -1,4 +1,4 @@
-### Hi there 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Helvetica&size=25&duration=4000&pause=500&color=000000&width=550&lines=Hi!+My+name+is+Jason+Kong%2C+Software+Engineer;Thanks+for+visiting+my+Github!)](https://git.io/typing-svg)
 
 <!--
 **jrkong216/jrkong216** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
