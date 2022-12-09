@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jason-kong-39552922/)
 
 <!-- 
- [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) https://www.linkedin.com/in/jason-kong-39552922/){:target="_blank"}]
+ [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) https://www.linkedin.com/in/jason-kong-39552922/)]{:target="_blank"}
 
 ![github-icon]: https://skillicons.dev/icons?i=github
 
