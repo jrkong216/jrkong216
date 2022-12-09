@@ -14,3 +14,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# About ME
+### My name is Jason Kong and I'm a full-stack software engineer. I'm from the Bay Area, CA USA. You can find me on:
+<!-- 
+ [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) https://www.linkedin.com/in/jason-kong-39552922/)]
+
+![github-icon]: https://skillicons.dev/icons?i=github
+
+
+
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+
+[![linked in][[github-icon](https://skillicons.dev/icons?i=github)]][[github-url](https://github.com/jameswonlee)]
+[![linked in][linkedin-icon]][linkedin-url] -->
